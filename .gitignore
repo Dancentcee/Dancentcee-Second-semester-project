@@ -3,3 +3,7 @@ node_modules
 dist
 dist-ssr
 *.local
+.vercel
+
+# Local Netlify folder
+.netlify
